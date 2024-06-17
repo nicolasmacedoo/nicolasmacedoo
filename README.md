@@ -43,6 +43,17 @@ Sou um desenvolvedor full-stack apaixonado por resolver problemas do mundo real 
 
 [![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasmacedoo&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+### 📊 GitHub Profile Stats
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nicolas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolasmacedoo&show_icons=true&theme=gruvbox" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacedoo&layout=compact&theme=gruvbox" height="192px"/></a>
+  <br/>
+
+  <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens que compõem meu código público e não refletem experiência ou nível de habilidade.
           
           
 
