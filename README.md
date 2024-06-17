@@ -29,9 +29,10 @@ Sou um desenvolvedor full-stack apaixonado por resolver problemas do mundo real 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Fastify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="Fastify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img align="left" alt="Fastify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 <br />
 
@@ -42,11 +43,9 @@ Sou um desenvolvedor full-stack apaixonado por resolver problemas do mundo real 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="192px" align="center" alt="Nicolas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolasmacedoo&show_icons=true&theme=gruvbox" />
-</a>
+      <img height="192px" align="center" alt="Nicolas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolasmacedoo&show_icons=true&theme=gruvbox" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="192px" align="center" alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacedoo&layout=compact&theme=gruvbox" />
-</a>
+      <img height="192px" align="center" alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacedoo&layout=compact&theme=gruvbox&langs_count=8&card_width=320" /></a>
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
