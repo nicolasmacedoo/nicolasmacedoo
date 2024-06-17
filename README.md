@@ -39,13 +39,7 @@ Sou um desenvolvedor full-stack apaixonado por resolver problemas do mundo real 
 
 #
 
-### Status
-
-[![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasmacedoo&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-
-### 📊 GitHub Profile Stats
+### 📊 Status Perfil GitHub
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
