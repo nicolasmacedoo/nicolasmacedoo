@@ -35,6 +35,7 @@ Sou um desenvolvedor full-stack apaixonado por resolver problemas do mundo real 
 <img align="left" alt="Fastify" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 <br />
+<br />
 
 #
 
