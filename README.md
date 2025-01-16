@@ -2,7 +2,11 @@
 
 **`Desenvolvedor de Software`**
 
-Sou um desenvolvedor full-stack apaixonado por resolver problemas do mundo real com tecnologia. Formado em ánalise e desenvolvimento de sistemas pela FIAP, tenho uma sólida base em desenvolvimento de software e uma visão ampla da engenharia de software. Atuo como analista de suporte na Totvs, uma das principais empresas de tecnologia do Brasil. Recentemente, participei do projeto Devs do Fututo na Totvs, onde tive a oportunidade de criar um projeto full-stack para atualizar dados cadastrais de cliente em todos os sistemas da Torre Food. Foi um desafio emocionante, desde o planejamento até o deploy, e permitiu que eu aperfeiçoasse minhas habilidades em liderança, comunicação e resolução de problemas. Criando projetos pessoais para estudar e resolver problemas do mundo real, estou sempre procurando por novos desafios e oportunidades para aplicar meus conhecimentos em desenvolvimento de software.
+Olá, sou Nicolas Macedo, desenvolvedor backend apaixonado por tecnologia e por transformar ideias em soluções práticas e eficientes. Tenho experiência em desenvolvimento de APIs e microsserviços, atuando com tecnologias como Java, Spring Boot, Node.js, TypeScript, e AWS, além de práticas modernas de arquitetura, como serverless e conteinerização com Docker.
+
+Sou dedicado a escrever código limpo e escalável, seguindo princípios como SOLID e Clean Code para garantir a manutenibilidade e a qualidade das soluções entregues. Com experiência em integrações complexas, banco de dados relacionais (PostgresSQL, Oracle) enão relacionais (MongoDB eDynamoDB), e automação de testes com JUnit e Vitest, busco sempre agregar valor ao projeto por meio de implementações seguras e de alta performance.
+
+Além das habilidades técnicas, valorizo a colaboração e o aprendizado contínuo, buscando aprimorar processos e contribuir com ideias inovadoras. Estou entusiasmado com a oportunidade de somar meu conhecimento e minha paixão por backend à equipe, visando desenvolver produtos que impactem positivamente o dia a dia das pessoas e o sucesso da empresa.
 
 <p align="left">
       <a href="https://www.instagram.com/nicolasconce/">
@@ -44,9 +48,9 @@ Sou um desenvolvedor full-stack apaixonado por resolver problemas do mundo real 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" alt="Nicolas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolasmacedoo&show_icons=true&theme=gruvbox" /></a>
+<img height=200 align="center" alt="Nicolas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolasmacedoo&show_icons=true&theme=gruvbox" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasmacedoo&layout=compact&theme=gruvbox&langs_count=8&card_width=320" /></a>
+<img height=200 align="center" alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasmacedoo&layout=compact&theme=gruvbox&langs_count=8&card_width=320" /></a>
       
 <br/>
 <br/>
